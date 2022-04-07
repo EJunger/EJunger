@@ -1,6 +1,6 @@
 # Hi, I'm Emma J!
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EJunger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&"/>
+[![EJunger's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJunger&theme=dracula&layout=compact&exclude_repo=COMP3104&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats"/>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
