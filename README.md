@@ -1,6 +1,6 @@
 # Hi, I'm Emma J!
 
-[![EJunger's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJunger&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![EJunger's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJunger&theme=dracula&include_all_commits=True&count_private=True&show_icons=False&)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJunger&theme=dracula&layout=compact&exclude_repo=COMP3104&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats"/>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/EJunger/)
