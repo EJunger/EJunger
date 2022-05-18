@@ -1,6 +1,6 @@
 # Hi, I'm Emma J!
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJunger&theme=dracula&layout=compact&exclude_repo=COMP3104&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats"/>
+<!-- <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJunger&theme=dracula&layout=compact&exclude_repo=COMP3104&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats"/> -->
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/EJunger/)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
