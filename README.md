@@ -1,4 +1,4 @@
-# Hi, I'm EJ!🏳️‍⚧️🏳️‍🌈
+# Hi, I'm EJ!🏳️‍⚧️
 
 I'm a unemployed software engineer looking to code things for money.
 
