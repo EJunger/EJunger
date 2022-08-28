@@ -1,6 +1,10 @@
 # Hi, I'm EJ!🏳️‍⚧️
 
-I'm a unemployed software engineer looking to code things for money.
+Vim devotee ⌨
+Console cowgirl 🤠
+Literal crab person 🦀
+
+Basically I'm a unemployed software engineer looking to code things for money.
 
 You can find me endlessly reconfiguring my Neovim setup or building things in Rust.
 
