@@ -1,8 +1,8 @@
 # Hi, I'm EJ!🏳️‍⚧️
 
-Vim devotee ⌨
-Console cowgirl 🤠
-Literal crab person 🦀
+- Vim devotee ⌨
+- Console cowgirl 🤠
+- Literal crab person 🦀
 
 Basically I'm a unemployed software engineer looking to code things for money.
 
