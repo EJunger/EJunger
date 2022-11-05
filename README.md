@@ -1,4 +1,5 @@
-## Hi, I'm EJ!🏳️‍⚧️
+## Hi, I'm EJ!
+<!-- 🏳️‍⚧ -->
 
 - Vim devotee ⌨
 - Console cowgirl 🤠
