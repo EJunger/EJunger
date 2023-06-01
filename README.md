@@ -4,7 +4,7 @@
 - Console cowgirl 🤠
 - Literal crab person 🦀
 
-Basically I'm a unemployed software engineer looking to code things for money.
+Basically I'm a software dev looking to code things for money.
 
 You can find me endlessly reconfiguring my Neovim setup or building things in Rust.
 
