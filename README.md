@@ -8,6 +8,6 @@ Basically I'm a software coding things for money.
 
 <!-- <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJunger&theme=dracula&layout=compact&exclude_repo=COMP3104&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats"/> -->
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<!-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
